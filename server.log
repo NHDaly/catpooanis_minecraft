@@ -1,0 +1,50 @@
+2013-06-04 01:36:05 [INFO] Starting minecraft server version 1.5.2
+2013-06-04 01:36:05 [INFO] Loading properties
+2013-06-04 01:36:05 [INFO] Default game type: SURVIVAL
+2013-06-04 01:36:05 [INFO] Generating keypair
+2013-06-04 01:36:06 [INFO] Starting Minecraft server on *:25565
+2013-06-04 01:36:06 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-06-04 01:36:06 [INFO] Preparing level "Hardcore Take 2"
+2013-06-04 01:36:07 [INFO] Preparing start region for level 0
+2013-06-04 01:36:08 [INFO] Preparing spawn area: 25%
+2013-06-04 01:36:08 [INFO] Done (2.254s)! For help, type "help" or "?"
+2013-06-04 01:36:36 [INFO] Faded_Overseer[/107.196.160.161:54670] logged in with entity id 222 at (-240.76464426622144, 61.0, 234.27949253313923)
+2013-06-04 01:37:03 [INFO] NHDaly[/127.0.0.1:50445] logged in with entity id 750 at (-35.035016933205284, 49.0, 37.30000001192093)
+2013-06-04 01:37:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:38:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:38:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:40:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:41:09 [INFO] <Faded_Overseer> nathaaaan
+2013-06-04 01:41:16 [INFO] <Faded_Overseer> where you go?
+2013-06-04 01:41:19 [INFO] <Faded_Overseer> oh there
+2013-06-04 01:41:28 [INFO] <NHDaly> ... my iphone was too hot? and needed to cool down?
+2013-06-04 01:43:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:43:25 [INFO] NHDaly was slain by Zombie Pigman
+2013-06-04 01:43:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:43:46 [INFO] Faded_Overseer was slain by Zombie Pigman
+2013-06-04 01:43:48 [INFO] NHDaly was slain by Zombie Pigman
+2013-06-04 01:43:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:59:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 01:59:42 [WARNING] Fetching addPacket for removed entity
+2013-06-04 02:00:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:01:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:03:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:03:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:12:31 [INFO] [Faded_Overseer: Teleported NHDaly to Faded_Overseer]
+2013-06-04 02:18:06 [INFO] <Faded_Overseer> nathan?
+2013-06-04 02:29:52 [INFO] [NHDaly: Teleported NHDaly to Faded_Overseer]
+2013-06-04 02:45:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:46:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:47:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-04 02:49:42 [INFO] <Faded_Overseer> aw
+2013-06-04 02:49:49 [INFO] <Faded_Overseer> sum
+2013-06-04 02:50:39 [INFO] Faded_Overseer lost connection: disconnect.quitting
+2013-06-04 02:50:40 [INFO] NHDaly lost connection: disconnect.quitting
+2013-06-04 02:50:53 [INFO] Stopping the server
+2013-06-04 02:50:53 [INFO] Stopping server
+2013-06-04 02:50:53 [INFO] Saving players
+2013-06-04 02:50:53 [INFO] Saving worlds
+2013-06-04 02:50:53 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
+2013-06-04 02:50:53 [INFO] Saving chunks for level 'Hardcore Take 2'/Nether
+2013-06-04 02:50:53 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
+2013-06-04 02:50:53 [INFO] Closing listening thread
