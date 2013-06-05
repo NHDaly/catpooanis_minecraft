@@ -103,3 +103,34 @@
 2013-06-04 23:59:33 [INFO] <NHDaly> zzzz
 2013-06-05 00:10:05 [INFO] [Faded_Overseer: Teleported Faded_Overseer to NHDaly]
 2013-06-05 00:14:04 [INFO] [NHDaly: Teleported Faded_Overseer to NHDaly]
+2013-06-05 00:43:21 [INFO] Faded_Overseer tried to swim in lava
+2013-06-05 00:45:09 [INFO] [Faded_Overseer: Teleported Faded_Overseer to NHDaly]
+2013-06-05 01:11:08 [INFO] NHDaly was burnt to a crisp whilst fighting Blaze
+2013-06-05 01:11:22 [INFO] [NHDaly: Unable to teleport because players are not in the same dimension]
+2013-06-05 01:11:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-05 01:11:49 [INFO] <NHDaly> ahh
+2013-06-05 01:11:55 [INFO] [NHDaly: Teleported NHDaly to Faded_Overseer]
+2013-06-05 01:29:42 [WARNING] Faded_Overseer moved wrongly!
+2013-06-05 01:54:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-05 01:55:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-05 01:55:53 [INFO] NHDaly lost connection: disconnect.quitting
+2013-06-05 01:55:54 [INFO] /127.0.0.1:57423 lost connection
+2013-06-05 01:55:58 [INFO] NHDaly[/127.0.0.1:57425] logged in with entity id 65641 at (-216.30000001192093, 65.0, 232.16858039345976)
+2013-06-05 02:44:49 [INFO] [Faded_Overseer: Set the time to 1600]
+2013-06-05 02:45:07 [INFO] [Faded_Overseer: Set the time to 2200]
+2013-06-05 02:45:15 [INFO] [Faded_Overseer: Set the time to 22200]
+2013-06-05 02:49:05 [INFO] NHDaly lost connection: disconnect.quitting
+2013-06-05 02:49:06 [INFO] <Faded_Overseer> sleep
+2013-06-05 02:49:09 [INFO] Faded_Overseer lost connection: disconnect.quitting
+2013-06-05 02:49:15 [INFO] Stopping the server
+2013-06-05 02:49:15 [INFO] Stopping server
+2013-06-05 02:49:15 [INFO] Saving players
+2013-06-05 02:49:15 [INFO] Closing listening thread
+2013-06-05 02:49:15 [INFO] Saving worlds
+2013-06-05 02:49:15 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
+2013-06-05 02:49:15 [INFO] Saving chunks for level 'Hardcore Take 2'/Nether
+2013-06-05 02:49:15 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
+2013-06-05 02:49:15 [INFO] Stopping server
+2013-06-05 02:49:15 [INFO] Saving players
+2013-06-05 02:49:15 [INFO] Saving worlds
+2013-06-05 02:49:15 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
