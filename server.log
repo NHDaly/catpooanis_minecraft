@@ -48,3 +48,58 @@
 2013-06-04 02:50:53 [INFO] Saving chunks for level 'Hardcore Take 2'/Nether
 2013-06-04 02:50:53 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
 2013-06-04 02:50:53 [INFO] Closing listening thread
+2013-06-04 23:03:43 [INFO] Starting minecraft server version 1.5.2
+2013-06-04 23:03:43 [INFO] Loading properties
+2013-06-04 23:03:43 [INFO] Default game type: SURVIVAL
+2013-06-04 23:03:43 [INFO] Generating keypair
+2013-06-04 23:03:43 [INFO] Starting Minecraft server on *:25565
+2013-06-04 23:03:43 [INFO] Preparing level "Hardcore Take 2"
+2013-06-04 23:03:43 [INFO] Preparing start region for level 0
+2013-06-04 23:03:44 [INFO] Preparing spawn area: 53%
+2013-06-04 23:03:45 [INFO] Done (1.529s)! For help, type "help" or "?"
+2013-06-04 23:04:03 [INFO] Faded_Overseer[/107.196.160.161:57506] logged in with entity id 255 at (-248.3297256301699, 48.0, 240.391601294491)
+2013-06-04 23:04:11 [INFO] <Faded_Overseer> hi friend!
+2013-06-04 23:05:17 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-04 23:05:17 [INFO] /ban <name> [reason ...]
+2013-06-04 23:05:17 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-04 23:05:17 [INFO] /banlist [ips|players]
+2013-06-04 23:05:17 [INFO] /clear <player> [item] [data]
+2013-06-04 23:05:17 [INFO] /debug
+2013-06-04 23:05:17 [INFO] /defaultgamemode <mode>
+2013-06-04 23:05:17 [INFO] /deop <player>
+2013-06-04 23:05:25 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-04 23:05:30 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2013-06-04 23:05:30 [INFO] /difficulty <new difficulty>
+2013-06-04 23:05:30 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2013-06-04 23:05:30 [INFO] /enchant <player> <enchantment ID> [level]
+2013-06-04 23:05:30 [INFO] /gamemode <mode> [player]
+2013-06-04 23:05:30 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2013-06-04 23:05:30 [INFO] /give <player> <item> [amount] [data]
+2013-06-04 23:05:30 [INFO] /help [page|command name]
+2013-06-04 23:05:32 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-04 23:05:32 [INFO] /kick <player> [reason ...]
+2013-06-04 23:05:32 [INFO] /kill
+2013-06-04 23:05:32 [INFO] /list
+2013-06-04 23:05:32 [INFO] /me <action ...>
+2013-06-04 23:05:32 [INFO] /op <player>
+2013-06-04 23:05:32 [INFO] /pardon <name>
+2013-06-04 23:05:32 [INFO] /pardon-ip <address>
+2013-06-04 23:05:33 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2013-06-04 23:05:33 [INFO] /save-all
+2013-06-04 23:05:33 [INFO] /save-off
+2013-06-04 23:05:33 [INFO] /save-on
+2013-06-04 23:05:33 [INFO] /say <message ...>
+2013-06-04 23:05:33 [INFO] /scoreboard
+2013-06-04 23:05:33 [INFO] /seed
+2013-06-04 23:05:33 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2013-06-04 23:05:40 [INFO] [Server] hi buddy!!
+2013-06-04 23:05:46 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-04 23:06:00 [INFO] [Server] this is the voice of god speaking
+2013-06-04 23:07:40 [INFO] NHDaly[/127.0.0.1:55814] logged in with entity id 4474 at (-34.30000001192093, 48.0, 94.30464173691075)
+2013-06-04 23:12:24 [INFO] [NHDaly] this is still god speaking
+2013-06-04 23:12:39 [INFO] <Faded_Overseer> C:
+2013-06-04 23:57:36 [INFO] NHDaly tried to swim in lava to escape Faded_Overseer
+2013-06-04 23:59:32 [INFO] <NHDaly> :(
+2013-06-04 23:59:33 [INFO] <NHDaly> zzzz
+2013-06-05 00:10:05 [INFO] [Faded_Overseer: Teleported Faded_Overseer to NHDaly]
+2013-06-05 00:14:04 [INFO] [NHDaly: Teleported Faded_Overseer to NHDaly]
