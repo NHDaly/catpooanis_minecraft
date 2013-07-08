@@ -134,3 +134,24 @@
 2013-06-05 02:49:15 [INFO] Saving players
 2013-06-05 02:49:15 [INFO] Saving worlds
 2013-06-05 02:49:15 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
+2013-07-07 19:57:23 [INFO] Starting minecraft server version 1.5.2
+2013-07-07 19:57:23 [INFO] Loading properties
+2013-07-07 19:57:23 [INFO] Default game type: SURVIVAL
+2013-07-07 19:57:23 [INFO] Generating keypair
+2013-07-07 19:57:24 [INFO] Starting Minecraft server on *:25565
+2013-07-07 19:57:24 [INFO] Preparing level "Hardcore Take 2"
+2013-07-07 19:57:24 [INFO] Preparing start region for level 0
+2013-07-07 19:57:25 [INFO] Preparing spawn area: 49%
+2013-07-07 19:57:25 [INFO] Done (1.751s)! For help, type "help" or "?"
+2013-07-07 20:00:07 [INFO] Unknown command. Try /help for a list of commands.
+2013-07-07 20:00:09 [INFO] Unknown command. Try /help for a list of commands.
+2013-07-07 20:00:11 [INFO] Stopping the server
+2013-07-07 20:00:11 [INFO] Stopping server
+2013-07-07 20:00:11 [INFO] Saving players
+2013-07-07 20:00:11 [INFO] Saving worlds
+2013-07-07 20:00:11 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
+2013-07-07 20:00:11 [INFO] Closing listening thread
+2013-07-07 20:00:11 [INFO] Saving chunks for level 'Hardcore Take 2'/Nether
+2013-07-07 20:00:11 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
+2013-07-07 20:00:12 [INFO] Stopping server
+2013-07-07 20:00:12 [INFO] Saving players
