@@ -155,3 +155,74 @@
 2013-07-07 20:00:11 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
 2013-07-07 20:00:12 [INFO] Stopping server
 2013-07-07 20:00:12 [INFO] Saving players
+2013-07-07 20:21:04 [INFO] Starting minecraft server version 1.6.1
+2013-07-07 20:21:04 [INFO] Loading properties
+2013-07-07 20:21:04 [INFO] Default game type: SURVIVAL
+2013-07-07 20:21:04 [INFO] Generating keypair
+2013-07-07 20:21:04 [INFO] Starting Minecraft server on *:25565
+2013-07-07 20:21:04 [INFO] Preparing level "Hardcore Take 2"
+2013-07-07 20:21:04 [INFO] Preparing start region for level 0
+2013-07-07 20:21:05 [INFO] Preparing spawn area: 36%
+2013-07-07 20:21:06 [INFO] Done (1.790s)! For help, type "help" or "?"
+2013-07-07 20:21:09 [SEVERE] Reached end of stream for /127.0.0.1
+2013-07-07 20:25:41 [SEVERE] Reached end of stream for /67.194.95.234
+2013-07-07 20:25:58 [INFO] NHDaly[/127.0.0.1:56844] logged in with entity id 248 at (-238.30000001192093, 62.5, 229.69999998807907)
+2013-07-07 20:25:58 [INFO] NHDaly joined the game
+2013-07-07 20:27:22 [INFO] Faded_Overseer[/67.194.95.234:54602] logged in with entity id 1549 at (-239.25783111446717, 61.0, 229.4201313621654)
+2013-07-07 20:27:22 [INFO] Faded_Overseer joined the game
+2013-07-07 20:33:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 20:37:03 [INFO] Unknown command. Try /help for a list of commands
+2013-07-07 21:07:38 [WARNING] NHDaly moved wrongly!
+2013-07-07 21:12:39 [INFO] NHDaly was shot by Skeleton
+2013-07-07 21:12:46 [INFO] Faded_Overseer was slain by Zombie
+2013-07-07 21:28:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 21:29:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 21:29:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 21:30:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 21:45:44 [INFO] Faded_Overseer lost connection: disconnect.quitting
+2013-07-07 21:45:44 [INFO] Faded_Overseer left the game
+2013-07-07 21:45:45 [INFO] NHDaly lost connection: disconnect.quitting
+2013-07-07 21:45:45 [INFO] NHDaly left the game
+2013-07-07 21:45:45 [SEVERE] Reached end of stream for /67.194.95.234
+2013-07-07 21:45:46 [SEVERE] Reached end of stream for /127.0.0.1
+2013-07-07 21:45:48 [INFO] NHDaly[/127.0.0.1:57360] logged in with entity id 79977 at (-233.6953223024596, 61.0, 230.5018622452484)
+2013-07-07 21:45:48 [INFO] NHDaly joined the game
+2013-07-07 21:45:50 [INFO] Faded_Overseer[/67.194.95.234:54663] logged in with entity id 80035 at (-234.05774525452432, 61.0, 229.65753226354718)
+2013-07-07 21:45:50 [INFO] Faded_Overseer joined the game
+2013-07-07 22:00:35 [INFO] Faded_Overseer was shot by Skeleton
+2013-07-07 22:01:33 [INFO] NHDaly was slain by Spider
+2013-07-07 22:01:53 [INFO] Faded_Overseer was slain by Zombie
+2013-07-07 22:11:44 [INFO] NHDaly lost connection: disconnect.quitting
+2013-07-07 22:11:44 [INFO] NHDaly left the game
+2013-07-07 22:11:44 [SEVERE] Reached end of stream for /127.0.0.1
+2013-07-07 22:11:46 [INFO] NHDaly[/127.0.0.1:57485] logged in with entity id 109173 at (23.904719866109797, 63.0, 332.32031142716096)
+2013-07-07 22:11:46 [INFO] NHDaly joined the game
+2013-07-07 22:52:54 [INFO] Faded_Overseer was shot by Skeleton
+2013-07-07 22:53:48 [INFO] NHDaly was slain by Zombie
+2013-07-07 23:51:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-07 23:52:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 02:02:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 02:02:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 02:05:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 02:14:27 [INFO] <NHDaly> ya
+2013-07-08 02:14:29 [INFO] <NHDaly> ayy
+2013-07-08 02:14:29 [INFO] <Faded_Overseer> yay
+2013-07-08 02:27:27 [INFO] <Faded_Overseer> horse
+2013-07-08 02:28:37 [INFO] NHDaly lost connection: disconnect.quitting
+2013-07-08 02:28:37 [INFO] NHDaly left the game
+2013-07-08 02:28:38 [INFO] Faded_Overseer lost connection: disconnect.quitting
+2013-07-08 02:28:38 [INFO] Faded_Overseer left the game
+2013-07-08 02:29:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 02:50:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 03:24:52 [INFO] Stopping the server
+2013-07-08 03:24:52 [INFO] Stopping server
+2013-07-08 03:24:52 [INFO] Saving players
+2013-07-08 03:24:52 [INFO] Saving worlds
+2013-07-08 03:24:52 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
+2013-07-08 03:24:52 [INFO] Closing listening thread
+2013-07-08 03:24:52 [INFO] Saving chunks for level 'Hardcore Take 2'/Nether
+2013-07-08 03:24:52 [INFO] Saving chunks for level 'Hardcore Take 2'/The End
+2013-07-08 03:24:52 [INFO] Stopping server
+2013-07-08 03:24:52 [INFO] Saving players
+2013-07-08 03:24:52 [INFO] Saving worlds
+2013-07-08 03:24:52 [INFO] Saving chunks for level 'Hardcore Take 2'/Overworld
